@@ -1,0 +1,21 @@
+Cargo_ID,Cargo_Type,Quantity_MT,Origin,Destination,Required_Date,Quality_Grade
+C001,Coal,30000,Paradip,Chennai,2026-10-15,A
+C002,Iron Ore,45000,Visakhapatnam,Paradip,2026-10-20,High
+C003,Wheat,25000,Kakinada,Chennai,2026-10-25,Premium
+C004,Cement,20000,Chennai,Kolkata,2026-11-01,Grade_53
+C005,Coal,50000,Paradip,Visakhapatnam,2026-11-05,A
+C006,Iron Ore,60000,Visakhapatnam,Chennai,2026-11-10,High
+C007,Wheat,35000,Kakinada,Kolkata,2026-11-15,Premium
+C008,Cement,28000,Chennai,Visakhapatnam,2026-11-20,Grade_53
+C009,Rice,30000,Kolkata,Chennai,2026-11-25,Premium
+C010,Corn,40000,Kakinada,Paradip,2026-12-01,Grade_A
+C011,Limestone,60000,Paradip,Chennai,2026-12-05,High
+C012,Bauxite,50000,Visakhapatnam,Chennai,2026-12-10,High
+C013,Fertilizer,30000,Chennai,Kolkata,2026-12-15,Grade_A
+C014,Coal,65000,Dhamra,Chennai,2026-12-20,A
+C015,Iron Ore,35000,Visakhapatnam,Kamarajar,2026-12-25,Medium
+C016,Rice,45000,Kakinada,Chennai,2027-01-01,Premium
+C017,Corn,30000,Haldia,Chennai,2027-01-05,Grade_A
+C018,Cement,40000,Chennai,Paradip,2027-01-10,Grade_53
+C019,Limestone,75000,Dhamra,Visakhapatnam,2027-01-15,High
+C020,Bauxite,60000,Visakhapatnam,Kamarajar,2027-01-20,High

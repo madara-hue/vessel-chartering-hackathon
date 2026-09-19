@@ -1,0 +1,6 @@
+Vessel_ID,Vessel_Name,DWT,Speed_Knots,Daily_Charter_Rate_USD,Fuel_Consumption_MT_Day
+V001,MT Ocean Star,35000,12.5,18000,22
+V002,MT Eastern Pearl,50000,13.2,22000,27
+V003,MT Bay Express,70000,14.0,28000,32
+V004,MT Coromandel,40000,12.8,19500,24
+V005,MT Coastal Trader,60000,13.5,25000,29

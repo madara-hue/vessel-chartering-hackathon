@@ -1,0 +1,14 @@
+Origin,Destination,Distance_NM,Fuel_Price_USD_MT,Port_Cost_USD
+Chennai,Kamarajar,25,650,18000
+Chennai,Krishnapatnam,180,650,22000
+Chennai,Visakhapatnam,360,650,28000
+Chennai,Paradip,650,650,35000
+Kamarajar,Chennai,25,650,18000
+Kamarajar,Krishnapatnam,160,650,22000
+Kamarajar,Visakhapatnam,340,650,28000
+Kamarajar,Paradip,630,650,35000
+Krishnapatnam,Visakhapatnam,210,650,25000
+Krishnapatnam,Paradip,500,650,32000
+Visakhapatnam,Paradip,300,650,30000
+Chennai,Tuticorin,380,650,26000
+Tuticorin,Chennai,380,650,26000

@@ -1,0 +1,7 @@
+Supplier_ID,Supplier_Name,Cargo_Type,Price_Per_MT_USD,Quality_Score,Delivery_Reliability,Available_Quantity_MT
+S001,East Coast Minerals,Iron Ore,68,92,95,60000
+S002,Coromandel Resources,Iron Ore,65,88,91,80000
+S003,South India Commodities,Iron Ore,72,96,94,50000
+S004,Chennai Bulk Traders,Coal,82,90,92,70000
+S005,East India Coal Supply,Coal,79,87,89,90000
+S006,Coastal Grain Suppliers,Wheat,245,94,96,50000
